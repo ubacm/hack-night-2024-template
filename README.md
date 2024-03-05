@@ -1,4 +1,3 @@
-# SAMPLE UB ACM HACK NIGHT 2024 TEMPLATE README.MD YOU CAN USE
 # Your Project Name Here
 
 ## Description
