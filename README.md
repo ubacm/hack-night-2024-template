@@ -1,4 +1,4 @@
-# Your Project Name Here
+# Your Project Name Here - UB ACM Hack Night 2024
 
 ## Description
 Provide a brief overview of your project. What problem does it solve? What technologies does it use?
